@@ -3,3 +3,7 @@
 # for folder add / at the end
 hello/
 
+# Stop recursiveness (test will only be ignred in this folder not in subfolder)
+/test
+
+
