@@ -1,1 +1,5 @@
+# so this is a comment after all
 *.c
+# for folder add / at the end
+hello/
+
