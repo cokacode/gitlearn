@@ -8,3 +8,5 @@ How about now
 This is new change
 
 changes are made here too
+
+I have made several other changes here and there
